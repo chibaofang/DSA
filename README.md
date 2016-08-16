@@ -1,2 +1,1 @@
-# learnc
-code in c/c++
+# learn DSA
